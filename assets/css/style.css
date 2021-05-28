@@ -12,7 +12,7 @@ body {
 }
 /* background color ends */
 
-/* Heaader, nav, ul, li, start here */
+/* Heaader, nav ul and li start here */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -47,7 +47,7 @@ body {
   margin-left: 25px;
 }
 
-/* Heaader, nav, ul, li, end here */
+/* Heaader, nav ul and li end here */
 
 /* a links and paragraphs to be style consistantly throughout whole site */
 a {
