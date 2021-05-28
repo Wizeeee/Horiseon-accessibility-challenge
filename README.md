@@ -15,7 +15,7 @@
 
 ### Screenshot of the website
 
-![screenshot](./asset/images/screenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 ### Contribution
 
